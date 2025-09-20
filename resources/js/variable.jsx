@@ -1,0 +1,1 @@
+export const AttributeType = ["Color","Size","Motif"];

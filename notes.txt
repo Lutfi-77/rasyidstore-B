@@ -1,0 +1,51 @@
+- add cart system and fe{
+    pake react
+} => DONE
+
+- testimonial => DONE
+
+- maps di index => DONE
+
+- dashboard User{
+    untuk status pengiriman => status pembelian, productnya, harga, kode invoice, 
+} => DONE
+
+-live chat tawkto => DONE
+
+-contact us => langsung direct gmail => DONE
+
+- home add to cart ilangin => DONE
+
+- section per kategori => DONE
+
+- detail product => DONE
+
+- about info lokasi dan visi&misi => DONE
+
+- comment => DONE
+
+add to cart redirect/notif => DONE
+
+buy now => Done
+
+icon search kegedean => DONE
+
+logo add to cart => DONE
+
+comment => infinite scroll
+
+footer kesepian
+
+benner bullets center => DONE
+
+login button change => DONE
+
+comment benerin
+
+banner link
+
+cart pake resource => OTW
+
+dashboard
+
+title, harga, qty
